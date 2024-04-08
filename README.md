@@ -31,7 +31,7 @@ To run the ElectricGames Platform locally:
 1. Clone this repository to your local machine.
 2. Navigate to the `ElectricGames` directory and run `npm install` to install dependencies.
 3. Start the frontend server by running `npm start`.
-4. Navigate to the `ElectricGamesApi` repository and open the solution in Visual Studio.
+4. Navigate to the `ElectricGamesApi` directory.
 5. Start the backend server by running `dotnet watch run`.
 6. Access the application in your web browser at `http://localhost:3000`.
 
